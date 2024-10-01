@@ -1,0 +1,62 @@
+.car-container {
+    max-width: 100%;
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .rental-list {
+    width: 60%;
+    margin: 0 auto; 
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+  }
+  
+  .rental-card {
+    width: 100%; 
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    padding: 20px;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+ 
+  .card-horizontal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  .rental-car-image {
+    width: 200px; 
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+    object-fit: cover;
+  }
+  
+  .rental-card .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .rental-card .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  @media (max-width: 1024px) {
+    .rental-card {
+      flex-direction: column;
+    }
+  
+    .rental-car-image {
+      width: 100%;
+      height: auto;
+      margin-bottom: 10px;
+    }
+  }
+  

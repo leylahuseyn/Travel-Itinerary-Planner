@@ -1,0 +1,106 @@
+.footer-baccol{
+    background-color: rgb(246, 253, 253);
+}
+
+.footer{
+    padding-top: 20px;
+    display: flex; 
+    justify-content: space-around;
+}
+
+.footer-logo{
+    width: 25%;
+    
+} 
+.footer-name b{
+    padding-top: 15px;
+    font-size: 20px;
+    color: #1b193dd5;
+}
+.footer-name p{
+    margin-top: 20px;
+  color: gray;
+  font-size: 14px;
+  line-height: 25px;
+}
+.footer-icons{
+    width: 70%;
+    padding: 10px 0 10px 0;
+    justify-content: space-between;
+}
+.address-icons{
+    display: flex;
+
+}
+.location-icon{
+    width: 52px  !important;
+    height: 40px;
+}
+.icons{
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+    border-radius: 50%;
+    background-color: rgb(200, 236, 250);
+    color: rgb(39, 132, 255);
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+
+.icon{
+    width: 27px;
+    height: 27px;
+    font-size: 14px;
+    border-radius: 50%;
+    background-color: rgb(200, 236, 250);
+    color: rgb(39, 132, 255);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.footer-instagram-images img{
+    width: 29%;
+    margin-left: 10px;
+    border-radius: 7%;
+    margin-top: 10px;
+}
+
+
+.quick b{
+    font-size: 20px;
+    color: #1b193dd5;
+}
+.address b{
+    font-size: 20px;
+    color: #1b193dd5;
+   
+}
+
+.address p{
+    color: gray;
+    font-size: 15px;
+}
+.links .Link{
+    text-decoration: none;
+    color: gray;
+    &:hover {
+      color: #007bff;
+    }
+    font-size: 15px;
+}
+.footer-last{
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer-bottom {
+    padding: 20px 20px;
+    border-top: 1px solid #e0e0e0;
+    margin-top: 20px;
+    font-size: 14px;
+  }

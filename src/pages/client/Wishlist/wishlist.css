@@ -1,0 +1,20 @@
+.wishlist{
+
+    min-height: 400px;
+h1{
+    color: #012f5e;
+    text-align: center;
+
+}
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+}
+
+
+.d-flex{
+  justify-content: space-around;
+}
+

@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.tour-banner {
+  position: relative;
+  width: 100%;
+  background-image: url('https://html.themeholy.com/tourm/demo/assets/img/hero/hero_bg_1_1.jpg');
+  min-height: 100vh;
+  background-size: cover;
+}
+
+.tour-banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.banner-name {
+  font-size: 2rem;
+  font-family: 'Brush Script MT', cursive;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+}
+
+.banner-txt {
+  font-size: 70px;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+  animation-delay: 0.5s;
+}
+
+.banner-text {
+  width: 70%;
+  color: white;
+  z-index: 2;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  text-align: start;
+}
+
+.banner-text-size {
+  width: 60%;
+}
+
+.btnbanner {
+  background-color: rgba(3, 3, 250, 0.87);
+  position: relative;
+  z-index: 2;
+  width: 180px;
+  height: 40px !important;
+  border-radius: 50px;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+  animation-delay: 1s;
+}
+
+.btnbanner:hover {
+  opacity: 0.5 !important;
+  background-color: rgba(3, 3, 250, 0.87);
+}
+
+
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

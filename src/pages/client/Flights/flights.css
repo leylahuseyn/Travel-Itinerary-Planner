@@ -1,0 +1,195 @@
+.flights .container {
+  max-width: 90%;
+  margin: 0 auto;
+
+}
+
+.banner-name {
+  font-size: 2rem;
+  font-family: 'Brush Script MT', cursive;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+}
+
+.banner-txt {
+  font-size: 70px;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+  animation-delay: 0.5s;
+}
+
+.banner-text {
+  width: 70%;
+  color: white;
+  z-index: 2;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  text-align: start;
+}
+
+.banner-text-size {
+  width: 60%;
+}
+
+.btnbanner {
+  position: relative;
+  z-index: 2;
+  width: 180px;
+  height: 40px !important;
+  border-radius: 50px;
+  opacity: 0;
+  transform: translateY(50px);
+  animation: fadeInUp 1s ease forwards;
+  animation-delay: 1s;
+}
+
+.btnbanner:hover {
+  opacity: 0.8;
+}
+
+.flights-banner {
+  position: relative;
+  background-image: url('https://files.oaiusercontent.com/file-jRV4sF3040c4kfm8jH5Q34Ti?se=2024-09-30T10%3A17%3A08Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0b324105-81da-4df4-b4b0-f2ec0997d72f.webp&sig=%2BzscltQSMV/KRR2ATzlUgd/pnFkbp6ZKdfIdMzmEekA%3D');
+  min-height: 100vh;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.flights-banner::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+.flights-body {
+  z-index: 3;
+  position: relative;
+}
+
+.flights-body h1 {
+  color: rgba(241, 237, 237, 0.945);
+  font-size: 70px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-between;
+  padding-top: 50px;
+}
+
+form label {
+  color: rgba(241, 237, 237, 0.945);
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  width: 100%;
+  max-width: 250px;
+}
+
+form select,
+form input {
+  opacity: 0.8;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+.button-search {
+  padding: 10px 25px !important;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  margin-top: 29px;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  form {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  form label {
+    width: 100%;
+    max-width: none;
+  }
+
+  .button-search {
+    width: 100%;
+  }
+}
+
+.button-search:hover {
+  background-color: #0056b3;
+}
+
+.flights-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.select {
+  border: none;
+}
+
+table {
+  opacity: 0.8;
+}
+
+.input {
+  width: 50px;
+  border: none;
+}
+
+@media (max-width: 768px) {
+  form {
+    flex-direction: column;
+  }
+
+  form label {
+    width: 100%;
+  }
+}
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+@media (max-width: 768px) {
+  .table-responsive {
+    overflow-x: scroll;
+  }
+
+  .table-responsive table {
+    min-width: 500px; 
+  }
+}

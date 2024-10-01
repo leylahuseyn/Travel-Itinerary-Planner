@@ -1,0 +1,209 @@
+{
+  "cities": [
+    {
+      "id": 1,
+      "name": "Rome",
+      "country": "Italy"
+    },
+    {
+      "id": 2,
+      "name": "Stockholm",
+      "country": "Sweden"
+    },
+    {
+      "id": 3,
+      "name": "Gian Island",
+      "country": "Thailand"
+    },
+    {
+      "id": 4,
+      "name": "Munich",
+      "country": "Germany"
+    },
+    {
+      "id": 5,
+      "name": "Bali",
+      "country": "Indonesia"
+    },
+    {
+      "id": 6,
+      "name": "Hanoi",
+      "country": "Vietnam"
+    },
+    {
+      "id": 7,
+      "name": "Kuwait City",
+      "country": "Kuwait"
+    },
+    {
+      "id": 8,
+      "name": "Saint Petersburg",
+      "country": "Russia"
+    },
+    {
+      "id": 9,
+      "name": "Dubai",
+      "country": "UAE"
+    },
+    {
+      "id": 10,
+      "name": "Prague",
+      "country": "Czech Republic"
+    },
+    {
+      "id": 11,
+      "name": "Amsterdam",
+      "country": "Netherlands"
+    },
+    {
+      "id": 12,
+      "name": "Vilnius",
+      "country": "Lithuania"
+    }
+     ],
+  "flights": [
+    { "id": 1, "fromCity": 1, "toCity": 2, "departureDate": "2024-10-01", "returnDate": "2024-10-07", "price": 400, "seatsAvailable": 100 },
+    { "id": 2, "fromCity": 1, "toCity": 3, "departureDate": "2024-10-15", "returnDate": "2024-10-22", "price": 500, "seatsAvailable": 80 },
+    { "id": 3, "fromCity": 1, "toCity": 4, "departureDate": "2024-10-05", "returnDate": "2024-10-12", "price": 450, "seatsAvailable": 70 },
+    { "id": 4, "fromCity": 1, "toCity": 5, "departureDate": "2024-11-01", "returnDate": "2024-11-10", "price": 600, "seatsAvailable": 90 },
+    { "id": 5, "fromCity": 1, "toCity": 6, "departureDate": "2024-11-12", "returnDate": "2024-11-20", "price": 550, "seatsAvailable": 85 },
+    { "id": 6, "fromCity": 1, "toCity": 7, "departureDate": "2024-11-18", "returnDate": "2024-11-25", "price": 450, "seatsAvailable": 75 },
+    { "id": 7, "fromCity": 1, "toCity": 8, "departureDate": "2024-12-05", "returnDate": "2024-12-12", "price": 400, "seatsAvailable": 60 },
+    { "id": 8, "fromCity": 1, "toCity": 9, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 500, "seatsAvailable": 65 },
+    { "id": 9, "fromCity": 1, "toCity": 10, "departureDate": "2024-12-30", "returnDate": "2025-01-06", "price": 600, "seatsAvailable": 50 },
+    { "id": 10, "fromCity": 1, "toCity": 11, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 550, "seatsAvailable": 90 },
+    { "id": 11, "fromCity": 1, "toCity": 12, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 500, "seatsAvailable": 100 },
+    
+    { "id": 12, "fromCity": 2, "toCity": 1, "departureDate": "2024-10-05", "returnDate": "2024-10-12", "price": 400, "seatsAvailable": 90 },
+    { "id": 13, "fromCity": 2, "toCity": 3, "departureDate": "2024-10-15", "returnDate": "2024-10-22", "price": 450, "seatsAvailable": 75 },
+    { "id": 14, "fromCity": 2, "toCity": 4, "departureDate": "2024-11-05", "returnDate": "2024-11-12", "price": 500, "seatsAvailable": 80 },
+    { "id": 15, "fromCity": 2, "toCity": 5, "departureDate": "2024-11-18", "returnDate": "2024-11-25", "price": 600, "seatsAvailable": 85 },
+    { "id": 16, "fromCity": 2, "toCity": 6, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 450, "seatsAvailable": 70 },
+    { "id": 17, "fromCity": 2, "toCity": 7, "departureDate": "2024-12-15", "returnDate": "2024-12-22", "price": 500, "seatsAvailable": 65 },
+    { "id": 18, "fromCity": 2, "toCity": 8, "departureDate": "2024-12-30", "returnDate": "2025-01-06", "price": 550, "seatsAvailable": 60 },
+    { "id": 19, "fromCity": 2, "toCity": 9, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 500, "seatsAvailable": 100 },
+    { "id": 20, "fromCity": 2, "toCity": 10, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 450, "seatsAvailable": 80 },
+    { "id": 21, "fromCity": 2, "toCity": 11, "departureDate": "2025-02-05", "returnDate": "2025-02-12", "price": 600, "seatsAvailable": 90 },
+    { "id": 22, "fromCity": 2, "toCity": 12, "departureDate": "2025-02-10", "returnDate": "2025-02-17", "price": 500, "seatsAvailable": 85 },
+
+    { "id": 23, "fromCity": 3, "toCity": 1, "departureDate": "2024-10-01", "returnDate": "2024-10-08", "price": 500, "seatsAvailable": 90 },
+    { "id": 24, "fromCity": 3, "toCity": 2, "departureDate": "2024-10-12", "returnDate": "2024-10-19", "price": 450, "seatsAvailable": 85 },
+    { "id": 25, "fromCity": 3, "toCity": 4, "departureDate": "2024-10-18", "returnDate": "2024-10-25", "price": 550, "seatsAvailable": 80 },
+    { "id": 26, "fromCity": 3, "toCity": 5, "departureDate": "2024-10-25", "returnDate": "2024-11-02", "price": 600, "seatsAvailable": 75 },
+    { "id": 27, "fromCity": 3, "toCity": 6, "departureDate": "2024-11-05", "returnDate": "2024-11-12", "price": 500, "seatsAvailable": 70 },
+    { "id": 28, "fromCity": 3, "toCity": 7, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 450, "seatsAvailable": 60 },
+    { "id": 29, "fromCity": 3, "toCity": 8, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 550, "seatsAvailable": 65 },
+    { "id": 30, "fromCity": 3, "toCity": 9, "departureDate": "2024-11-20", "returnDate": "2024-11-27", "price": 500, "seatsAvailable": 80 },
+    { "id": 31, "fromCity": 3, "toCity": 10, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 550, "seatsAvailable": 70 },
+    { "id": 32, "fromCity": 3, "toCity": 11, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 500, "seatsAvailable": 85 },
+    { "id": 33, "fromCity": 3, "toCity": 12, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 60 },
+
+    { "id": 34, "fromCity": 4, "toCity": 1, "departureDate": "2024-10-05", "returnDate": "2024-10-12", "price": 400, "seatsAvailable": 100 },
+    { "id": 35, "fromCity": 4, "toCity": 2, "departureDate": "2024-10-12", "returnDate": "2024-10-19", "price": 450, "seatsAvailable": 90 },
+    { "id": 36, "fromCity": 4, "toCity": 3, "departureDate": "2024-10-20", "returnDate": "2024-10-27", "price": 500, "seatsAvailable": 85 },
+    { "id": 37, "fromCity": 4, "toCity": 5, "departureDate": "2024-11-01", "returnDate": "2024-11-08", "price": 550, "seatsAvailable": 75 },
+    { "id": 38, "fromCity": 4, "toCity": 6, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 500, "seatsAvailable": 70 },
+    { "id": 39, "fromCity": 4, "toCity": 7, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 600, "seatsAvailable": 80 },
+    { "id": 40, "fromCity": 4, "toCity": 8, "departureDate": "2024-11-20", "returnDate": "2024-11-27", "price": 450, "seatsAvailable": 65 },
+    { "id": 41, "fromCity": 4, "toCity": 9, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 600, "seatsAvailable": 85 },
+    { "id": 42, "fromCity": 4, "toCity": 10, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 500, "seatsAvailable": 80 },
+    { "id": 43, "fromCity": 4, "toCity": 11, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 550, "seatsAvailable": 75 },
+    { "id": 44, "fromCity": 4, "toCity": 12, "departureDate": "2025-01-05", "returnDate": "2025-01-12", "price": 500, "seatsAvailable": 90 },
+
+    { "id": 45, "fromCity": 5, "toCity": 1, "departureDate": "2024-10-10", "returnDate": "2024-10-17", "price": 450, "seatsAvailable": 80 },
+    { "id": 46, "fromCity": 5, "toCity": 2, "departureDate": "2024-10-18", "returnDate": "2024-10-25", "price": 550, "seatsAvailable": 90 },
+    { "id": 47, "fromCity": 5, "toCity": 3, "departureDate": "2024-11-01", "returnDate": "2024-11-08", "price": 600, "seatsAvailable": 85 },
+    { "id": 48, "fromCity": 5, "toCity": 4, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 550, "seatsAvailable": 80 },
+    { "id": 49, "fromCity": 5, "toCity": 6, "departureDate": "2024-11-20", "returnDate": "2024-11-27", "price": 500, "seatsAvailable": 75 },
+    { "id": 50, "fromCity": 5, "toCity": 7, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 450, "seatsAvailable": 65 },
+    { "id": 51, "fromCity": 5, "toCity": 8, "departureDate": "2024-12-15", "returnDate": "2024-12-22", "price": 550, "seatsAvailable": 85 },
+    { "id": 52, "fromCity": 5, "toCity": 9, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 90 },
+    { "id": 53, "fromCity": 5, "toCity": 10, "departureDate": "2025-01-01", "returnDate": "2025-01-08", "price": 550, "seatsAvailable": 80 },
+    { "id": 54, "fromCity": 5, "toCity": 11, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 500, "seatsAvailable": 90 },
+    { "id": 55, "fromCity": 5, "toCity": 12, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 550, "seatsAvailable": 100 },
+
+    { "id": 56, "fromCity": 6, "toCity": 1, "departureDate": "2024-10-15", "returnDate": "2024-10-22", "price": 500, "seatsAvailable": 70 },
+    { "id": 57, "fromCity": 6, "toCity": 2, "departureDate": "2024-10-25", "returnDate": "2024-11-01", "price": 550, "seatsAvailable": 80 },
+    { "id": 58, "fromCity": 6, "toCity": 3, "departureDate": "2024-11-01", "returnDate": "2024-11-08", "price": 450, "seatsAvailable": 90 },
+    { "id": 59, "fromCity": 6, "toCity": 4, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 600, "seatsAvailable": 85 },
+    { "id": 60, "fromCity": 6, "toCity": 5, "departureDate": "2024-11-20", "returnDate": "2024-11-27", "price": 500, "seatsAvailable": 75 },
+    { "id": 61, "fromCity": 6, "toCity": 7, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 450, "seatsAvailable": 60 },
+    { "id": 62, "fromCity": 6, "toCity": 8, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 550, "seatsAvailable": 65 },
+    { "id": 63, "fromCity": 6, "toCity": 9, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 85 },
+    { "id": 64, "fromCity": 6, "toCity": 10, "departureDate": "2025-01-01", "returnDate": "2025-01-08", "price": 550, "seatsAvailable": 75 },
+    { "id": 65, "fromCity": 6, "toCity": 11, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 500, "seatsAvailable": 80 },
+    { "id": 66, "fromCity": 6, "toCity": 12, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 600, "seatsAvailable": 70 },
+
+    { "id": 67, "fromCity": 7, "toCity": 1, "departureDate": "2024-10-01", "returnDate": "2024-10-08", "price": 550, "seatsAvailable": 60 },
+    { "id": 68, "fromCity": 7, "toCity": 2, "departureDate": "2024-10-12", "returnDate": "2024-10-19", "price": 500, "seatsAvailable": 90 },
+    { "id": 69, "fromCity": 7, "toCity": 3, "departureDate": "2024-10-20", "returnDate": "2024-10-27", "price": 450, "seatsAvailable": 80 },
+    { "id": 70, "fromCity": 7, "toCity": 4, "departureDate": "2024-11-05", "returnDate": "2024-11-12", "price": 600, "seatsAvailable": 70 },
+    { "id": 71, "fromCity": 7, "toCity": 5, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 550, "seatsAvailable": 65 },
+    { "id": 72, "fromCity": 7, "toCity": 6, "departureDate": "2024-11-20", "returnDate": "2024-11-27", "price": 600, "seatsAvailable": 75 },
+    { "id": 73, "fromCity": 7, "toCity": 8, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 450, "seatsAvailable": 80 },
+    { "id": 74, "fromCity": 7, "toCity": 9, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 500, "seatsAvailable": 85 },
+    { "id": 75, "fromCity": 7, "toCity": 10, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 90 },
+    { "id": 76, "fromCity": 7, "toCity": 11, "departureDate": "2025-01-05", "returnDate": "2025-01-12", "price": 550, "seatsAvailable": 100 },
+    { "id": 77, "fromCity": 7, "toCity": 12, "departureDate": "2025-01-15", "returnDate": "2025-01-22", "price": 500, "seatsAvailable": 90 },
+
+    { "id": 78, "fromCity": 8, "toCity": 1, "departureDate": "2024-10-05", "returnDate": "2024-10-12", "price": 500, "seatsAvailable": 85 },
+    { "id": 79, "fromCity": 8, "toCity": 2, "departureDate": "2024-10-15", "returnDate": "2024-10-22", "price": 600, "seatsAvailable": 90 },
+    { "id": 80, "fromCity": 8, "toCity": 3, "departureDate": "2024-11-01", "returnDate": "2024-11-08", "price": 550, "seatsAvailable": 95 },
+    { "id": 81, "fromCity": 8, "toCity": 4, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 600, "seatsAvailable": 90 },
+    { "id": 82, "fromCity": 8, "toCity": 5, "departureDate": "2024-11-30", "returnDate": "2024-12-07", "price": 500, "seatsAvailable": 85 },
+    { "id": 83, "fromCity": 8, "toCity": 6, "departureDate": "2024-12-05", "returnDate": "2024-12-12", "price": 450, "seatsAvailable": 80 },
+    { "id": 84, "fromCity": 8, "toCity": 7, "departureDate": "2024-12-15", "returnDate": "2024-12-22", "price": 500, "seatsAvailable": 70 },
+    { "id": 85, "fromCity": 8, "toCity": 9, "departureDate": "2025-01-01", "returnDate": "2025-01-08", "price": 600, "seatsAvailable": 100 },
+    { "id": 86, "fromCity": 8, "toCity": 10, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 550, "seatsAvailable": 90 },
+    { "id": 87, "fromCity": 8, "toCity": 11, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 600, "seatsAvailable": 85 },
+    { "id": 88, "fromCity": 8, "toCity": 12, "departureDate": "2025-02-05", "returnDate": "2025-02-12", "price": 500, "seatsAvailable": 70 },
+
+    { "id": 89, "fromCity": 9, "toCity": 1, "departureDate": "2024-10-01", "returnDate": "2024-10-08", "price": 450, "seatsAvailable": 85 },
+    { "id": 90, "fromCity": 9, "toCity": 2, "departureDate": "2024-10-12", "returnDate": "2024-10-19", "price": 550, "seatsAvailable": 75 },
+    { "id": 91, "fromCity": 9, "toCity": 3, "departureDate": "2024-11-01", "returnDate": "2024-11-08", "price": 500, "seatsAvailable": 95 },
+    { "id": 92, "fromCity": 9, "toCity": 4, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 600, "seatsAvailable": 85 },
+    { "id": 93, "fromCity": 9, "toCity": 5, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 550, "seatsAvailable": 70 },
+    { "id": 94, "fromCity": 9, "toCity": 6, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 500, "seatsAvailable": 80 },
+    { "id": 95, "fromCity": 9, "toCity": 7, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 75 },
+    { "id": 96, "fromCity": 9, "toCity": 8, "departureDate": "2025-01-01", "returnDate": "2025-01-08", "price": 450, "seatsAvailable": 100 },
+    { "id": 97, "fromCity": 9, "toCity": 10, "departureDate": "2025-01-10", "returnDate": "2025-01-17", "price": 500, "seatsAvailable": 90 },
+    { "id": 98, "fromCity": 9, "toCity": 11, "departureDate": "2025-01-20", "returnDate": "2025-01-27", "price": 600, "seatsAvailable": 85 },
+    { "id": 99, "fromCity": 9, "toCity": 12, "departureDate": "2025-02-05", "returnDate": "2025-02-12", "price": 500, "seatsAvailable": 80 },
+
+    { "id": 100, "fromCity": 10, "toCity": 1, "departureDate": "2024-10-01", "returnDate": "2024-10-08", "price": 600, "seatsAvailable": 90 },
+    { "id": 101, "fromCity": 10, "toCity": 2, "departureDate": "2024-10-12", "returnDate": "2024-10-19", "price": 550, "seatsAvailable": 85 },
+    { "id": 102, "fromCity": 10, "toCity": 3, "departureDate": "2024-10-25", "returnDate": "2024-11-01", "price": 600, "seatsAvailable": 80 },
+    { "id": 103, "fromCity": 10, "toCity": 4, "departureDate": "2024-11-10", "returnDate": "2024-11-17", "price": 500, "seatsAvailable": 85 },
+    { "id": 104, "fromCity": 10, "toCity": 5, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 550, "seatsAvailable": 70 },
+    { "id": 105, "fromCity": 10, "toCity": 6, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 600, "seatsAvailable": 75 },
+    { "id": 106, "fromCity": 10, "toCity": 7, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 450, "seatsAvailable": 85 },
+    { "id": 107, "fromCity": 10, "toCity": 8, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 500, "seatsAvailable": 80 },
+    { "id": 108, "fromCity": 10, "toCity": 9, "departureDate": "2025-01-05", "returnDate": "2025-01-12", "price": 600, "seatsAvailable": 100 },
+    { "id": 109, "fromCity": 10, "toCity": 11, "departureDate": "2025-01-15", "returnDate": "2025-01-22", "price": 550, "seatsAvailable": 95 },
+    { "id": 110, "fromCity": 10, "toCity": 12, "departureDate": "2025-01-25", "returnDate": "2025-02-01", "price": 600, "seatsAvailable": 90 },
+
+    { "id": 111, "fromCity": 11, "toCity": 1, "departureDate": "2024-10-01", "returnDate": "2024-10-08", "price": 450, "seatsAvailable": 85 },
+    { "id": 112, "fromCity": 11, "toCity": 2, "departureDate": "2024-10-15", "returnDate": "2024-10-22", "price": 500, "seatsAvailable": 95 },
+    { "id": 113, "fromCity": 11, "toCity": 3, "departureDate": "2024-10-20", "returnDate": "2024-10-27", "price": 550, "seatsAvailable": 90 },
+    { "id": 114, "fromCity": 11, "toCity": 4, "departureDate": "2024-11-05", "returnDate": "2024-11-12", "price": 600, "seatsAvailable": 75 },
+    { "id": 115, "fromCity": 11, "toCity": 5, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 500, "seatsAvailable": 85 },
+    { "id": 116, "fromCity": 11, "toCity": 6, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 550, "seatsAvailable": 90 },
+    { "id": 117, "fromCity": 11, "toCity": 7, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 600, "seatsAvailable": 95 },
+    { "id": 118, "fromCity": 11, "toCity": 8, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 500, "seatsAvailable": 100 },
+    { "id": 119, "fromCity": 11, "toCity": 9, "departureDate": "2025-01-05", "returnDate": "2025-01-12", "price": 550, "seatsAvailable": 85 },
+    { "id": 120, "fromCity": 11, "toCity": 10, "departureDate": "2025-01-15", "returnDate": "2025-01-22", "price": 600, "seatsAvailable": 90 },
+    { "id": 121, "fromCity": 11, "toCity": 12, "departureDate": "2025-02-01", "returnDate": "2025-02-08", "price": 500, "seatsAvailable": 80 },
+
+    { "id": 122, "fromCity": 12, "toCity": 1, "departureDate": "2024-10-05", "returnDate": "2024-10-12", "price": 500, "seatsAvailable": 90 },
+    { "id": 123, "fromCity": 12, "toCity": 2, "departureDate": "2024-10-10", "returnDate": "2024-10-17", "price": 550, "seatsAvailable": 85 },
+    { "id": 124, "fromCity": 12, "toCity": 3, "departureDate": "2024-10-20", "returnDate": "2024-10-27", "price": 600, "seatsAvailable": 80 },
+    { "id": 125, "fromCity": 12, "toCity": 4, "departureDate": "2024-11-05", "returnDate": "2024-11-12", "price": 550, "seatsAvailable": 70 },
+    { "id": 126, "fromCity": 12, "toCity": 5, "departureDate": "2024-11-15", "returnDate": "2024-11-22", "price": 500, "seatsAvailable": 60 },
+    { "id": 127, "fromCity": 12, "toCity": 6, "departureDate": "2024-12-01", "returnDate": "2024-12-08", "price": 550, "seatsAvailable": 65 },
+    { "id": 128, "fromCity": 12, "toCity": 7, "departureDate": "2024-12-10", "returnDate": "2024-12-17", "price": 500, "seatsAvailable": 70 },
+    { "id": 129, "fromCity": 12, "toCity": 8, "departureDate": "2024-12-20", "returnDate": "2024-12-27", "price": 600, "seatsAvailable": 85 },
+    { "id": 130, "fromCity": 12, "toCity": 9, "departureDate": "2025-01-05", "returnDate": "2025-01-12", "price": 500, "seatsAvailable": 90 },
+    { "id": 131, "fromCity": 12, "toCity": 10, "departureDate": "2025-01-15", "returnDate": "2025-01-22", "price": 550, "seatsAvailable": 100 },
+    { "id": 132, "fromCity": 12, "toCity": 11, "departureDate": "2025-01-25", "returnDate": "2025-02-01", "price": 600, "seatsAvailable": 90 }
+  ]
+}

@@ -1,0 +1,952 @@
+{
+    "cities": [
+        {
+            "id": "1",
+            "city": "Rome",
+            "country": "Italy",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Hotel de Russie Rome",
+                    "date": "2024-10-20 / 2024-10-27",
+                    "price": 2900,
+                    "img": "https://legrandmag.com/wp-content/uploads/2022/05/unnamed2.jpeg",
+                    "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/27/ab/3d/a8/stravinskij-bar-exterior.jpg?w=1200&h=-1&s=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/97490370.jpg?k=7f9206f614e3ded45949092d20e4eb7a2b5e5f22f4cc66c64308eeef27810f89&o=&hp=1",
+                    "img4": "https://www.italiaatavola.net/images/contenutiarticoli/LeJardindeRussie.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "The Westin Excelsior",
+                    "date": "2024-11-05 / 2024-11-12",
+                    "price": 2700,
+                    "img": "https://cache.marriott.com/content/dam/marriott-renditions/ROMWI/romwi-facade-6235-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img2": "https://cache.marriott.com/content/dam/marriott-renditions/ROMWI/romwi-deluxe-0739-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img3": "https://cache.marriott.com/content/dam/marriott-renditions/ROMWI/romwi-lobby-7102-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1300px:*",
+                    "img4": "https://cache.marriott.com/content/dam/marriott-renditions/ROMWI/romwi-doney-0736-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 3,
+                    "name": "St. Regis Rome",
+                    "date": "2024-10-20 / 2024-10-27",
+                    "price": 3100,
+                    "img": "https://i-fiumi-di-navona-rome.booked.net/data/Photos/OriginalPhoto/8294/829474/829474028/I-Fiumi-Di-Navona-Hotel-Rome-Exterior.JPEG",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/500916747.jpg?k=d29ad0184cab3033a1655763fbbe924c9a5c253df59cef2c7b26577662dd0512&o=&hp=1",
+                    "img3": "https://cache.marriott.com/content/dam/marriott-renditions/ROMXR/romxr-king-guestroom-5809-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img4": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/db/96/f5/the-st-regis-rome.jpg",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 4,
+                    "name": "Hotel Eden Rome",
+                    "date": "2024-09-15 / 2024-09-22",
+                    "price": 3300,
+                    "img": "https://globeinfinite.com/wp-content/uploads/2023/07/9007_A.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321863968.jpg?k=cc86a024a7d4e3030d890ac59bc7bc7a76f024f94b1f12db09b250b397cefb95&o=&hp=1",
+                    "img3": "https://media.tatler.com/photos/64f082ba49ac039c8208d889/master/w_1600%2Cc_limit/Hotel%2520Eden%2520310823%25202.jpg",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/321866220.jpg?k=449c6e86884db6c72c882e8aa6b2d0970efe14f2a9dc819e8f9e42676459d8c3&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 5,
+                    "name": "A Waldorf Astoria Hotel",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3500,
+                    "img": "https://waldorf-astoria-hotel-new-york.nochi.com/data/Photos/OriginalPhoto/15988/1598863/1598863386/Waldorf-Astoria-New-York-Hotel-Exterior.JPEG",
+                    "img2": "https://www.waldorftowers.nyc/content/uploads/2023/09/WANY_Clock_Lobby_2_FINAL-1606255556-scaled.jpg",
+                    "img3": "https://media.cntraveler.com/photos/6310f4d850440e140fb37e2b/16:9/w_2560%2Cc_limit/Waldorf%2520Astoria%2520Washington%2520DC%2520_%2520Bi%2520Level%2520Loft%2520Bedroom.jpg",
+                    "img4": "https://phgcdn.com/images/uploads/AMSWA/diningimages/1600x813-Peacock-Alley.jpg",
+                    "meal": "UAL",
+                    "stars": 3
+                },
+                {
+                    "id": 6,
+                    "name": "J.K. Place Roma",
+                    "date": "2024-09-01 / 2024-09-08",
+                    "price": 3200,
+                    "img": "https://www.theluxevoyager.com/wp-content/uploads/2019/06/J.K.Place-Roma.jpg",
+                    "img2": "https://www.bluarte.it/wp-content/uploads/2020/02/JKRoma-lobby.jpg",
+                    "img3": "https://www.il.kayak.com/rimg/himg/34/06/39/leonardo-522893-146840494-780255.jpg?width=1366&height=768&crop=true",
+                    "img4": "https://trendland.com/wp-content/uploads/2014/12/Jkplace_travel_06.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Grand Hotel Stockholm",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 4000,
+                    "img": "https://www.keim.com/fileadmin/_processed_/f/e/csm_Soldalit_GranHotelStockholm_1_dab592fc7e.jpg",
+                    "img2": "https://www.myboutiquehotel.com/photos/5419/grand-hotel-stockholm-stockholm-036-15178-1110x700.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112806338.jpg?k=fff38c049dd9efb7359fa3b5dbd2928a0a1dc9569ccebdf6ca8335edd8af37c2&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/112810406.jpg?k=7ce21809dcbc20bca2b797fb05209153cefd8b5b770727f852d121e37f41fe75&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 2,
+                    "name": "Hotel Diplomat",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3200,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/406554260.jpg?k=e08609cdef3209effa964c808605bb3ef3b6d0bc0c9d70bcfcc4520f219e8adb&o=&hp=1",
+                    "img2": "https://www.swellcityguide.com/static/d06214edd15a5fe9ed9353b7cf57472e/0470c/IMG_5399.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/494312096.jpg?k=9ef9f096f31a2af62f97ef508121204a35cde44b9a7f2845cb453aab5f130329&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/498051479.jpg?k=f4ce3e03f39e4648533d75e43034e10d1800601885a344df7ede5113ff70a1c6&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 3
+                },
+                {
+                    "id": 3,
+                    "name": "Nobis Hotel Stockholm",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 3100,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/35955304.jpg?k=2f1cbad17dde02d4c06a80274fd194c9c4526eeedc2e8fc3f52c7a6cb3c449bf&o=&hp=1",
+                    "img2": "https://nobis-2.s3.eu-central-1.amazonaws.com/Nobis%20Hotel%20Stockholm/Hotel/_1200x630_crop_center-center_82_none/NobisStockholm_Exterior_Beatrice%20Graalheim_2.JPG?mtime=1646250552",
+                    "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/66/84/f4/nobis-hotel.jpg?w=700&h=-1&s=1",
+                    "img4": "https://d17k8relgo9zj1.cloudfront.net/rcimg/2/AlF-_Y1PFYyyKhPovCIbwxggdTT385KcvF5GKEUTvHg/fit/0/1000/ce/1/aHR0cHM6Ly9yb29tY2FyZC1wdWJsaWMtZGF0YS04MmhkazJraHNkLnMzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tL3Jvb21jYXJkL2hvdGVscy9pbWFnZXMvbm9iaXMtaG90ZWwtc3RvY2tob2xtLWEtbWVtYmVyLW9mLWRlc2lnbi1ob3RlbHMtc3RvY2tob2xtLTE2ZGM3MWUwLmpwZw.jpg",
+                    "meal": "UAL",
+                    "stars": 3
+                },
+                {
+                    "id": 4,
+                    "name": "At Six",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2900,
+                    "img": "https://ik.imgkit.net/3vlqs5axxjf/external/http://media.iceportal.com/100675/photos/62320833_XL.jpg?tr=w-1200%2Cfo-auto",
+                    "img2": "https://www.strawberryhotels.com/globalassets/global/hotel-pictures/nordic-hotels-and-resorts/at-six/the-hotel/outdoor/facade-entrance-hotel-at-six.jpg?t=SmartScale%7C1024x570",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/199424999.jpg?k=c7fc7cf8e5ace4252c31646d2c2c802dcc749d2a5415ae2d5e053c700e1b96f7&o=&hp=1",
+                    "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/52/e5/d0/the-restaurant.jpg?w=1200&h=-1&s=1",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Lydmar Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3600,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/148213977.jpg?k=e23ab288b1ee6eacd23887aaaa01f78decff91e0bf2dd91b502ed5f01011e01a&o=&hp=1",
+                    "img2": "https://lydmar-hotel-stockholm.hotel-ds.com/data/Photos/OriginalPhoto/7370/737090/737090455/lydmar-hotel-stockholm-photo-45.JPEG",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/196405769.jpg?k=ca74c1271bc6f1420415c8a34661bb8a7f821791191cf8aacac1d95d13478ce2&o=&hp=1",
+                    "img4": "https://res.cloudinary.com/tf-lab/image/upload/restaurant/aa35436e-b868-4137-ae4a-22b3f60051b0/4cf63483-eebd-4241-a18a-bc4d750beab5.jpg",
+                    "meal": "UAL",
+                    "stars": 3
+                },
+                {
+                    "id": 6,
+                    "name": "Sheraton Stockholm",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 2800,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503884305.jpg?k=f80ef0505892a41207672e09e3ecb35bd3b1d7866bbe1df59c8c5d0eff360c89&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/503884307.jpg?k=1b7f35a002c60b0d2b0b63ece5d5c33d40a2f47fba8e14255f5e0af191a137cb&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/485136061.jpg?k=1cf30d80876001cbeae53f2f629c36af9f11c3999a7056b7b00366559a7402a3&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/515547258.jpg?k=6c53974ba6486565c71ef120903c64ce0c40caee56c90a1ca76aa3c97983f209&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "city": "Gian Island",
+            "country": "Thailand",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Arena Beach Hotel",
+                    "date": "2024-10-12 / 2024-10-19",
+                    "price": 2040,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/354439517.jpg?k=66d498023d4685cea0e9dfe76702b3fab905013eed5bd38542ef8df582a377b4&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/251513633.jpg?k=178bebe4b52c2ad4b2093173a0f1b73acc90307a1d5854a56f2b1a457fd0d497&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/327428263.jpg?k=a653173d02ff73dac016128ee88724ffa4fc07fdedb893ef0bd5f0b972a518a6&o=&hp=1",
+                    "img4": "https://images.trvl-media.com/lodging/13000000/12460000/12456400/12456376/8fe95b1e.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                    "meal": "UAL",
+                    "stars": 3
+                },
+                {
+                    "id": 2,
+                    "name": "Kurumba Maldives",
+                    "date": "2024-09-01 / 2024-09-08",
+                    "price": 3005,
+                    "img": "https://www.hotelscombined.com/rimg/kimg/ad/14/3c1407a9cee9c9ae.jpg?width=1200&height=630&crop=true",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/152645581.jpg?k=c4da23b7ee42cfb5df77c76102932ec2874e76e5159ef55ff0ae5575cb89a298&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/438274280.jpg?k=3308c9436ab6c6b94bf176e4c26b8ae6f6cbe90e95dab6bc9ac57179da2f69c8&o=&hp=1",
+                    "img4": "https://skytoursmaldives.com/wp-content/uploads/elementor/thumbs/Thila-Interior-pvnnddwuzum3la563b77vrgebnfehizudt9gbbkab4.jpg",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Lux South Ari Atoll",
+                    "date": "2024-12-15 / 2024-12-22",
+                    "price": 2700,
+                    "img": "https://edynblue.com/wp-content/uploads/2024/02/Hurawalhi-Aerial-2-1080x675.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/86905261.jpg?k=37acbe22dc067ab5ec33c0c3ac31364c25850a21d876a573f0bbc1d58dcbc127&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/134121209.jpg?k=86021d1e64f2f3dd0239855cef66d8992c9347bad8dd45c4fcf9acd7d6022255&o=&hp=1",
+                    "img4": "https://resort-holiday.com/upload/resize_cache/webp/iblock/c8c/c8c58d2e64efea9c9f490740060627af.webp",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 4,
+                    "name": "The White Harp Beach",
+                    "date": "2024-10-22 / 2024-10-29",
+                    "price": 2017,
+                    "img": "https://the-white-harp-beach.themaldiveshotels.com/data/Pictures/OriginalPhoto/6143/614385/614385960/picture-male-the-white-harp-beach-hotel-43.JPEG",
+                    "img2": "https://the-white-harp-beach.themaldiveshotels.com/data/Pictures/OriginalPhoto/6143/614385/614385965/picture-male-the-white-harp-beach-hotel-50.JPEG",
+                    "img3": "https://r1imghtlak.mmtcdn.com/56c51d0413fb11e9b54c0242ac110002.jpg",
+                    "img4": "https://the-white-harp-beach-hotel-hulhumale.booked.net/data/Photos/OriginalPhoto/6143/614385/614385975/The-White-Harp-Beach-Hotel-Male-Exterior.JPEG",
+                    "meal": "UAI",
+                    "stars": 3
+                },
+                {
+                    "id": 5,
+                    "name": "Lvis Boutique",
+                    "date": "2024-11-17 / 2024-11-24",
+                    "price": 2164,
+                    "img": "https://thertwguys.com/wp-content/uploads/2017/10/2017-05-13_01-12-33_704-1024x768.jpg",
+                    "img2": "https://lvis-boutique-hotel-male.bedspro.com/data/Pics/OriginalPhoto/6991/699193/699193989/lvis-boutique-guest-house-male-pic-26.JPEG",
+                    "img3": "https://thertwguys.com/wp-content/uploads/2017/10/IMG_7646.jpg",
+                    "img4": "https://lvis-boutique-guest-house.maldives-holidays-hotels.com/data/Pics/OriginalPhoto/6991/699193/699193452/lvis-boutique-guest-house-male-pic-19.JPEG",
+                    "meal": "UAL",
+                    "stars": 3
+                },
+                {
+                    "id": 6,
+                    "name": "Sun Siyam Iru Fushi",
+                    "date": "2024-08-15 / 2024-08-22",
+                    "price": 3500,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332087379.jpg?k=bf778b09e69c5893fd1d53908152840c0d72795ff9e63b9a65ba2bd82456ab55&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/257148969.jpg?k=4e7980354c888dd502812e98a82e69dc556c429b582724b322e1189d02d046fa&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/63736461.jpg?k=47a4b14b9216fc92e31e4e8f295262f6e18f18ae8a009b4043445ab575e7f28c&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/276633072.jpg?k=aa8156135df6efd859ebffd20328bcf5e301c4d31e6dfb24729973ca1de9987d&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 5
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "city": "Munich",
+            "country": "Germany",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Hotel Bayerischer Hof",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3300,
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Msc_2006-Impressions_Friday-Bild_062.jpg",
+                    "img2": "https://www.kayak.ch/rimg/himg/dd/7a/ec/leonardo-2088175-Penthouse_Garden_Suite_View_O-314965.jpg?width=1366&height=768&crop=true",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/214945686.jpg?k=865d83926e38581b180427e3a730e5a1a4c06063887bc8d447568a18f2bd6ebd&o=&hp=1",
+                    "img4": "https://www.restaurant-ranglisten.de/fileadmin/user_upload/images/content/Restaurants/Bayern/Muenchen/Garden/1993_Restaurant_Garden_Terrasse__c__Benjamin_Monn.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Mandarin Oriental",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3200,
+                    "img": "https://www.kayak.com/rimg/himg/be/27/81/leonardo-1108997-Front_bei_Nacht_004_O-805979.jpg?width=1366&height=768&crop=true",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/265306954.jpg?k=6637d14dc12cd0c9b585595405d97d953629a0423c5053545edd7e1735e8d0d5&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/274699926.jpg?k=a5641b970af7fc72121491fd7fa45aac16717a5cccdadc1ef2eafe493e5669c1&o=&hp=1",
+                    "img4": "https://static.prod.r53.tablethotels.com/media/hotels/slideshow_images_staged/large/1284109.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 3,
+                    "name": "Hotel Vier Jahreszeiten",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 3100,
+                    "img": "https://www.vjz.de/wp-content/uploads/2020/03/aussenaufnahme-hotel-vier-jahreszeiten-schluchsee-scaled.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/386282107.jpg?k=669325032089b11138e9f0fc865ef8c7f1d464b12ee6082a4103866b7eae390c&o=&hp=1",
+                    "img3": "https://hvj.de/files/image/zimmer/Uebersicht/HVJ-Hamburg-beletage-02.jpg",
+                    "img4": "https://fairmont-vier-jahreszeiten-hotel-hamburg.at-hotels.com/data/Pictures/700x500w/12769/1276937/1276937002/hamburg-fairmont-vier-jahreszeiten-hotel-picture-3.JPEG",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "The Charles Hotel",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 3000,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/12412932.jpg?k=7273113c52e37d746fbf7fcc30b4a99b1f97a47bf455032c8b37abf870bb7413&o=&hp=1",
+                    "img2": "https://cdn.kiwicollection.com/media/property/PR005433/xl/005433-RFH%20The%20Charles%20Hotel%20-%20Monforte%20Suite%206770%20JG%20May%2017%20copy.jpg?cb=1531182112",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/410742030.jpg?k=b827e7a3b865361492dd6365bcf535f7d06be436d8b57d7d240c5525fcd2757a&o=&hp=1",
+                    "img4": "https://cdn.audleytravel.com/2097/1498/79/15987128-sophias-restaurant.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Hotel München Palace",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3500,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/131309371.jpg?k=75224b0b920acd6b0ba3c2bc7faa55adebe5d9a69a39efe1222f76293e0e588a&o=&hp=1",
+                    "img2": "https://image-tc.galaxy.tf/wijpeg-b3gfik9fajyx79i3952woa8ss/first-page-newsletter-privacy-policy-guests-privacy-policy-homepage-imprint.jpg?width=1920",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/144167040.jpg?k=25ee87ace68b1e2ac8dc01cdf784bae71ec2753c27747b5f8bd0436c9c605375&o=&hp=1",
+                    "img4": "https://image-tc.galaxy.tf/wijpeg-5rzwhy9526xbvuwanocnqbhyg/palace-wintergarten.jpg?width=1920",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 6,
+                    "name": "Louis Hotel Munich",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 2900,
+                    "img": "https://cdn.kiwicollection.com/media/property/PR008016/xl/008016-12-LOUIS%20Hotel_Front.jpg?cb=1469214460",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/121304179.jpg?k=a4a6c6dad9b78217f9b366d938cd21dc850ed2e3ef2cce542b497db97ceff1ee&o=&hp=1",
+                    "img3": "https://media.cntraveler.com/photos/53dae9a4dcd5888e145d57ac/16:9/w_2560,c_limit/louis-hotel-munich-germany-111471-1.jpg",
+                    "img4": "https://www.louis-hotel.com/fileadmin/_processed_/5/d/csm_hotel-restaurant-the-louis-grillroom-muenchen_e44e5730ee.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "city": "Bali",
+            "country": "Indonesia",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Four Seasons Resort Bali",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3900,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/355677227.jpg?k=df550ad77998f56c2b24ea20eeb4dba105523eff2b40fd6cea4f61c3ab3b9648&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/84207442.jpg?k=e716fdacb6ffa387ac5c51270d6024ed0c1768db6fa28ff81d80a54f3f9b9113&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/61902041.jpg?k=cc47f23fbcb9bb0c5991f2c9426c2c1cdb7a256c0aba898c8ad776c364b68ed8&o=&hp=1",
+                    "img4": "https://www.fourseasons.com/alt/img-opt/~70.1530.0,0000-0,0000-810,0000-810,0000/publish/content/dam/fourseasons/images/web/UBU/UBU_ugc_travelbabbo.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "The St. Regis Bali Resort",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3500,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426599780.jpg?k=1f4187f541fc682d4ecc8b8bbed73db52eaa03149acdb1258ed10c0c27403195&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/591157804.jpg?k=110fb586a2a628090e8efb4812ab2275ebe302520bae4732d177a4521ded9880&o=&hp=1",
+                    "img3": "https://cache.marriott.com/content/dam/marriott-renditions/DPSXR/dpsxr-residence-master-bedroom-2872-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/d5/5a/1c/boneka-restaurant-at.jpg?w=1200&h=-1&s=1",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 3,
+                    "name": "Ayana Resort and Spa",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 3100,
+                    "img": "https://cms-asset.ayana.com/OG_Image_ARSB_66cefac2a6.jpg",
+                    "img2": "https://www.fivestaralliance.com/files/fivestaralliance.com/field/image/nodes/2009/10864/10864_0_ayanaresortandspabali_fsa-g.jpg",
+                    "img3": "https://cms-asset.ayana.com/ARSB_Ocean_View_Room_King_1320x740_3_c9647bd338.jpg",
+                    "img4": "https://cms-asset.ayana.com/KISIK_996x560_10_76e2fd1fe2.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "Alila Villas Uluwatu",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2800,
+                    "img": "https://cdn.luxurytravelmag.com.au/wp-content/uploads/2023/03/HERO_Alila-Villas-Uluwatu-Aerial-6.jpg",
+                    "img2": "https://www.americanexpress.com/en-us/travel/discover/photos/100471/71207/1600/alilavillasuluwatu-panorama-sunset-cabana.jpg?ch=560",
+                    "img3": "https://alila-villas-uluwatu.hotelmix.id/data/Photos/OriginalPhoto/12683/1268362/1268362933/Alila-Villas-Uluwatu-Exterior.JPEG",
+                    "img4": "https://d2mo2a5fvrklap.cloudfront.net/app/uploads/sites/2/2022/07/01205125/uluwatu-dine-warung-hero-desktop.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Mandapa, A Ritz-Carlton",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3400,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516276875.jpg?k=f618f3564b7595ec82c6a4e706db2cffdec889747a82db1b347c03b0636def64&o=&hp=1",
+                    "img2": "https://cache.marriott.com/is/image/marriotts7prod/rz-dpsub-one-bedroom-pool-13294-79102:Wide-Hor?wid=1336&fit=constrain",
+                    "img3": "https://www.hotelscombined.com/rimg/himg/70/c1/28/leonardo-96818622-dpsub-king-bedroom-3597-hor-clsc_O-906537.jpg?width=1366&height=768&crop=true",
+                    "img4": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_729/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/byn28bmjjrdoaaw3meo6/FineDiningExperienceatMandapaARitzCarltonReserveUbud.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 6,
+                    "name": "The Mulia Bali",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 3600,
+                    "img": "https://images.destination2.co.uk/Hotels/superid/312557/0.jpg",
+                    "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/be/37/c6/the-mulia.jpg?w=700&h=-1&s=1",
+                    "img3": "https://images.destination2.co.uk/Hotels/superid/312557/1.jpg",
+                    "img4": "https://media.coraltravel.pl/www/pl/hotels/38/26/8112/16420251.jpg",
+                    "meal": "UAI",
+                    "stars": 5
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "city": "Hanoi",
+            "country": "Vietnam",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Sofitel Legend Metropole",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3200,
+                    "img": "https://vietnamdecouverte.com/pic/fileLibrary/2228cd40-1702-4da4-87ab-464d800454a7.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/519485826.jpg?k=973f2015220b8e02159150b91f4d1f5dc7b153527a496c662a0a0e105ba10fbd&o=&hp=1",
+                    "img3": "https://www.journey-deluxe.de/wp-content/uploads/2018/08/Sofitel-Legend-Metropol-Hanoi-Charlie-Chaplin-Suite-2.jpg",
+                    "img4": "https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/95/2023/05/12024626/DSC08026-scaled.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "InterContinental Hanoi",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 2800,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/8878372.jpg?k=56878ea8cd14875b5a52d9d9a53dd425b9fcaae106173d39db055767708faef8&o=&hp=1",
+                    "img2": "https://www.snailtravel.cz/upload/tours/274113_full.jpg",
+                    "img3": "https://images.trvl-media.com/lodging/2000000/1850000/1848900/1848828/68e04e34.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/376410532.jpg?k=cd800cefa904cdab7a9492e97ea40fe4eaa5b2a792cb215f226e02e31e0439b1&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 3,
+                    "name": "JW Marriott Hotel Hanoi",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2600,
+                    "img": "https://ashui.com/mag/images/stories/201902/JWMarriott1.jpg",
+                    "img2": "https://wnfdiary.com/wp-content/uploads/2022/05/JW-Marriott-Hotel-Hanoi-2.jpg",
+                    "img3": "https://cache.marriott.com/content/dam/marriott-renditions/HANJW/hanjw-executive-bedroom-3958-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img4": "https://cache.marriott.com/content/dam/marriott-renditions/HANJW/hanjw-cantonese-grill-3303-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "Pan Pacific Hanoi",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2500,
+                    "img": "https://static.wixstatic.com/media/209085_123c9da5f71449be82e86d2c28739f78~mv2.jpeg/v1/fill/w_1000,h_750,al_c,q_85,usm_0.66_1.00_0.01/209085_123c9da5f71449be82e86d2c28739f78~mv2.jpeg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/51481761.jpg?k=53c108d7552d3834438c0a4bbb6032f1e5d024f97165451fa50f68ce04773c3c&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/89617607.jpg?k=67b950489d287e486bb371149c739cd5566b7e50eaf424dac36b45f202fcb055&o=&hp=1",
+                    "img4": "https://www.thetraveltemple.com.au/wp-content/uploads/2018/08/Photo-6-7-18-11-40-56.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Apricot Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 2300,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/56009974.jpg?k=e8defed90d76c647eef581cb703c3ec439a82023ad61e9278887a61a13a5e5d2&o=&hp=1",
+                    "img2": "https://apricothotels.com/wp-content/uploads/2016/08/Hotel-lobby-s.jpg",
+                    "img3": "https://apricothotels.com/wp-content/uploads/2018/09/Canvas-Garden-Apricot-Hotel-Hanoi-4-700x400.jpg",
+                    "img4": "https://www.vietnamtonkintravel.com/sites/t/to/tonkinv2/uploads/ckfinder/images/Hanoi/Hanoi%20Hotel/apricot%20hotel_restaurant1.JPG",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 6,
+                    "name": "Linea Apricot Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 2300,
+                    "img": "https://images.trvl-media.com/lodging/34000000/33220000/33218400/33218399/d51c5c59.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/429805641.jpg?k=ea809e8d1cc0774628e1d9b6ae462c130870339d784b8561c6bb9b480180d765&o=&hp=1",
+                    "img3": "https://photos.hotelbeds.com/giata/original/43/433056/433056a_hb_ro_109.jpg",
+                    "img4": "https://www.maritim.com/fileadmin/_processed_/c/1/csm_DAR_130_Restaurant_055bfa5786.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+      {
+            "id": "7",
+            "city": "Kuwait",
+            "country": "Kuwait",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Jumeirah Messilah Beach",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 4500,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/309610750.jpg?k=297f5d960511b6f08602f7cb418bf88a5cbfc05302f56f9fca7e5585b509b7da&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/516347312.jpg?k=3cb4a82a50a9019e6b98b9c5f1cdf5b51b86437e58647432b0667f9a60411339&o=&hp=1",
+                    "img3": "https://images.trvl-media.com/lodging/5000000/4550000/4547100/4547006/e42a5d2c.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                    "img4": "https://www.hautegrandeur.com/restaurants/wp-content/uploads/2019/11/Olio-Italian-Restaurant-4-e1579858879220.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "The Regency Hotel",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 4200,
+                    "img": "https://ik.imgkit.net/3vlqs5axxjf/external/http://media.iceportal.com/107381/photos/63257701_XL.jpg?tr=w-1200%2Cfo-auto",
+                    "img2": "https://image-tc.galaxy.tf/wijpeg-6hoistz2l0zzvfy6xgg01taj4/trk-046-230822.jpg?width=1920",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/151828075.jpg?k=2df998544e4bfa8f251c659a5600eb1c904cfbb0d33a1c000aa3b19e6abfa942&o=&hp=1",
+                    "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e2/af/b6/comfortable-banquette.jpg?w=1200&h=-1&s=1",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Four Seasons Hotel",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 4100,
+                    "img": "https://www.cfmedia.vfmleonardo.com/imageRepo/4/0/64/552/70/FPO_BKU_287_S.jpg",
+                    "img2": "https://four-seasons-kuwait-at-burj-alshaya-kuwait-city.hotelmix.id/data/Photos/OriginalPhoto/12839/1283921/1283921764/Four-Seasons-Hotel-Kuwait-At-Burj-Alshaya-Kuwait-City-Exterior.JPEG",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/73917772.jpg?k=bd9abe65b6999eef9afafd96e38e1500379c754bedbb974d3e32ca3c6ed9885e&o=&hp=1",
+                    "img4": "https://www.fourseasons.com/alt/img-opt/~70.1530.18,2222-0,0000-2963,5556-1667,0000/publish/content/dam/fourseasons/images/web/HKG/HKG_2864_original.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "Sheraton Kuwait",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 3800,
+                    "img": "https://sheraton.kuwait-hotels-kw.com/data/Photos/OriginalPhoto/10161/1016151/1016151418/kuwait-city-sheraton-hotel-photo-28.JPEG",
+                    "img2": "https://ik.imgkit.net/3vlqs5axxjf/external/https://www.cfmedia.vfmleonardo.com/imageRepo/7/0/151/812/750/fp-kwifp-lobby-229732-53003_Classic-Hor_O.jpg?tr=w-1200%2Cfo-auto",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/461645638.jpg?k=f0e5e1a12444965fb61cf2908d4869906ef625abab37fd1c3376335a1187e57a&o=&hp=1",
+                    "img4": "https://sheraton.kuwait-hotels-kw.com/data/Photos/OriginalPhoto/10161/1016147/1016147434/kuwait-city-sheraton-hotel-photo-37.JPEG",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Marina Hotel Kuwait",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3900,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481668184.jpg?k=d4f9f423ab99462f90b0026ea8cec70994bc2170fb0b8081dfac117cb72d3a8e&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481669668.jpg?k=81847a29015af3bba45aa72483f4089567f4c9abb542d195529850d5559ec62d&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481668636.jpg?k=49382a6514896121f64d0f4277405f22910c9a699b7c75186ea076da8dd0bf92&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/481669932.jpg?k=c8fbecd1e370efd469a67fc52a2e12d2e24caa67b0fbeb1bd33edc105a441ec6&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 6,
+                    "name": "Maria Subait Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3900,
+                    "img": "https://santa-maria-y-suites.sanjosedelcabo-hotels.com/data/Images/OriginalPhoto/10244/1024403/1024403107/image-san-jose-del-cabo-santa-maria-hotel-y-suites-1.JPEG",
+                    "img2": "https://kelioniuakademija.lt/hotel/12376/santana-pool-015-2-1.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/533818533.jpg?k=9322b13e647001defb5b684a4733430ae83b4649abbc08b62bf1e5fa01c5aad7&o=&hp=1",
+                    "img4": "https://www.maltaparadise.com/media/12471/7-santa-maria-hotel-restaurant-malta.jpg?anchor=center&mode=crop&width=1090&height=727&rnd=133591232480000000&quality=30",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "city": "Saint Petersburg",
+            "country": "Russia",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Belmond Grand Hotel",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3300,
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Belmond_Grand_Hotel_Europe_Saint_Petersburg_external_view.jpg/1200px-Belmond_Grand_Hotel_Europe_Saint_Petersburg_external_view.jpg",
+                    "img2": "https://damhyul3s75yv.cloudfront.net/photos/13021/original_Review-Belmond_Grand_Hotel_Europe_St_Petersburg_Russia-Entrance.jpg",
+                    "img3": "https://belmondgrandeurope.saintpetersburg-hotels.com/data/Pictures/OriginalPhoto/8169/816947/816947411/saint-petersburg-grand-hotel-europe-picture-1.JPEG",
+                    "img4": "https://iy.kommersant.ru/Issues.photo/LifeStyle_News/2020/04/22/KLS_000001_10723_1_t222_212143.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Four Seasons Hotel",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3500,
+                    "img": "https://www.theluxevoyager.com/wp-content/uploads/2018/02/Four-Seasons-Lion-Palace-Saint-Petersburg-2.jpg",
+                    "img2": "https://i.ytimg.com/vi/r0XlgggiDBM/maxresdefault.jpg",
+                    "img3": "https://lionpalacehotel.com/upload/resize_cache/iblock/d28/1920_800_2/tlxszoel4kx5mfzrsurly9t85g71cg6d.jpeg",
+                    "img4": "https://lionpalacehotel.com/upload/resize_cache/iblock/77b/1920_880_2/t9t2dn3vynkhd2case9pl33j411ggluc.jpeg",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Kempinski Hotel 22",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2900,
+                    "img": "https://media.cntraveler.com/photos/53daf1836dec627b14a0d7f3/16:9/w_2560,c_limit/kempinski-hotel-moika-22-st-petersburg-russia-107008-1.jpg",
+                    "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/62/fd/8c/kempinski-hotel-moika.jpg?w=1100&h=-1&s=1",
+                    "img3": "https://z.cdrst.com/foto/hotel-sf/13887/granderesp/foto-hotel-124f4ae3.jpg",
+                    "img4": "https://www.thehotelguru.com/_images/3d/f0/3df03917ed36aaa3b9d2f6a3558fedd1/kempinski-hotel-moik-s1180x560.jpg",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 4,
+                    "name": "Corinthia St Petersburg",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2700,
+                    "img": "https://www.corinthiagroup.com/wp-content/uploads/2019/10/61EE3214-3BCE-4EB5-B70B-2E69C70B4FC6_1.jpeg",
+                    "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/af/57/6c/exterior.jpg?w=700&h=-1&s=1",
+                    "img3": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/bf/f7/ff/guest-room.jpg?w=700&h=-1&s=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/168548448.jpg?k=7ea2d4ed61b9b279c8ae70ad7d5a1f6cb3bc5030cb0d9e80a4afb6334dee9715&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Astoria St Petersburg",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3000,
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/04/cd/hotel-astoria-facade.jpg?w=700&h=-1&s=1",
+                    "img2": "https://globeinfinite.com/wp-content/uploads/2023/07/Hotel-Astoria-Saint-Petersburg.jpg",
+                    "img3": "https://imgcy.trivago.com/c_fill,d_dummy.jpeg,e_sharpen:60,f_auto,h_534,q_40,w_800/hotelier-images/9f/d9/95f611518b79828b2dd6701bbcd648881aa0f936bc0e57f2b20bf3a0c413.jpeg",
+                    "img4": "https://guideforyou-russia.com/wp-content/uploads/2019/11/iuyrthrgggrthgdf-800x600.jpg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 6,
+                    "name": "Rocco Forte Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 3000,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278888032.jpg?k=cc1d0ba7ae941112d890984b1be89be546b76a5bb34dfdbf29bad14437bf49eb&o=&hp=1",
+                    "img2": "https://media.cntraveler.com/photos/590a331e332aee5e4e8a4ee1/16:9/w_2560,c_limit/Courtyard-HoteldeRussie-Italy-CRHotel.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/278888054.jpg?k=188826ea02621cf154b3fdadceaf7aa0e5658246c3fc747fed74e91f3625217b&o=&hp=1",
+                    "img4": "https://robbreportmonaco.com/wp-content/uploads/2024/01/IMG_0307.jpeg",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "city": "Dubai",
+            "country": "UAE",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Burj Al Arab",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 5000,
+                    "img": "https://www.shapoorjiproperties.com/blog/wp-content/uploads/2023/09/7-Amazing-Facts-About-Burj-Al-Arab-Jumeirah-1.webp",
+                    "img2": "https://cdn.efficienttourism.com/wp-content/uploads/2023/02/inside-burj-al-arab-dubai.jpg",
+                    "img3": "https://media.architecturaldigest.com/photos/56eae20138cde43e159fc53c/16:9/w_2580,c_limit/most-expensive-suite-burj-al-arab-07.jpg",
+                    "img4": "https://i.insider.com/558ac93aeab8ea484e57802b?width=1136&format=jpeg",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Atlantis The Palm",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3200,
+                    "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Hotel_Atlantis_at_Sunset%2C_The_Palm_-_Dubai_%2849510861268%29.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/548610860.jpg?k=95bd927c6e4e27105d5f241b05cf4e6247eb7134a2c6077b40bf4f5ca21218e5&o=&hp=1",
+                    "img3": "https://bynder.onthebeach.co.uk/cdn-cgi/image/width=1400,quality=70,fit=cover,format=auto/m/42147dc07cc45762/original/Atlantis-The-Palm.jpg",
+                    "img4": "https://theluxurytravelsociety.co.uk/wp-content/uploads/2019/05/Atlantis-the-palm-underwater-restaurant-1.jpg",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Jumeirah Beach Hotel",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2750,
+                    "img": "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/jumeirah-beach-hotel/new-website-content/hotel-home-page/hotel-gallery/jbh_jumeirah-beach-hotel_gallery_image-1/jbh_jumeirah-beach-hotel_gallery_image-1__portrait.jpg",
+                    "img2": "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/hotels/dubai/jumeirah-beach-hotel/new-website-content/hotel-home-page/hotel-gallery/jbh_jumeirah-beach-hotel_gallery_image-5/jbh_jumeirah-beach-hotel_gallery_image-5__portrait.jpg",
+                    "img3": "https://hi-cdn.t-rp.co.uk/images/hotels/111764/2?width=870&height=480&crop=false",
+                    "img4": "https://cdn.jumeirah.com/-/mediadh/dh/hospitality/jumeirah/article/stories/dubai/inside-dubais-exciting-new-beach/content_jumeirah-beach-hotel_nuska-interiors.jpg?modified=20230606112814",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "The Ritz-Carlton Dubai",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2900,
+                    "img": "https://cache.marriott.com/content/dam/marriott-renditions/DXBRZ/dxbrz-hotel-gardens-7955-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1300px:*",
+                    "img2": "https://cache.marriott.com/content/dam/marriott-renditions/DXBRZ/dxbrz-pools-beach-7956-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img3": "https://elitevoyage.com/wp-content/uploads/2021/07/the-ritz-carlton-dubai-04.jpg",
+                    "img4": "https://cache.marriott.com/is/image/marriotts7prod/rz-dxbrz-tamoka-cityscape-11064-94158:Classic-Hor?wid=1200&fit=constrain",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Address Downtown",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 4500,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181840500.jpg?k=21c1941c4e9dbb6b721223b98ec7ae0359f6feab4937b892498fcdda295d05df&o=&hp=1",
+                    "img2": "https://the-address-downtown-residences-dubai.at-hotels.com/data/Pics/OriginalPhoto/12824/1282497/1282497757/the-address-downtown-hotel-dubai-pic-14.JPEG",
+                    "img3": "https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/JW4ZIPFQCTAOT6NB6ESTCXWNFM.jpg",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/147760382.jpg?k=f07c1f5c1c49feece06cf1465187ef8eb775fa036c342f56e5643af184d598eb&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 6,
+                    "name": "Palazzo Versace Dubai",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 4000,
+                    "img": "https://prestigiousvenues.com/wp-content/uploads/2018/05/Italian-Palace-Venue-Palazzo-Versace-Dubai-Prestigious-Venues.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/279292102.jpg?k=a41a313758e9535f3cb0ebccc9b76118948cde466797388ee4510a6951200eb3&o=&hp=1",
+                    "img3": "https://www.kayak.com/rimg/himg/5e/12/bd/leonardo-2140012-Three_Bedroom_Residence_O-848676.jpg?width=1366&height=768&crop=true",
+                    "img4": "https://prestigiousvenues.com/wp-content/uploads/2018/05/Banqueting-Event-Space-Palazzo-Versace-Dubai-Prestigious-Venues.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "city": "Prague",
+            "country": "Czech Republic",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Four Seasons Prague",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3200,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/77294973.jpg?k=2f31023ddb8d744012e547fbbf72ff726e191ffde7409dd62757c3f84874b3b5&o=&hp=1",
+                    "img2": "https://i.ytimg.com/vi/eYe1teTsL4M/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhaMA8=&rs=AOn4CLBD8-9eHDo-CndYdtmrgsoW5Io4jQ",
+                    "img3": "https://media.cntraveler.com/photos/5daf194f8ef8df0009d3f4d5/16:9/w_2560,c_limit/Four-Seasons-Hotel-Prague_2019_PRG_225.jpg",
+                    "img4": "https://www.praguehotels.info/data/Pictures/OriginalPhoto/12313/1231392/1231392272/prague-four-seasons-hotel-picture-16.JPEG",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Augustine, a Luxury Hotel",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3100,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426626814.jpg?k=fbad9a9635671c055fe52f43a67c4edf69d914b6e9a5f72943df0b20b7151120&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/426626818.jpg?k=65b725195e3e1cbd7e2a86bab189c03729ea5c63191f79eee957b3c4536d5b80&o=&hp=1",
+                    "img3": "https://cache.marriott.com/content/dam/marriott-renditions/PRGLC/prglc-monastery-suite-4389-hor-clsc.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=1336px:*",
+                    "img4": "https://cache.marriott.com/content/dam/marriott-renditions/PRGLC/prglc-refectory-bar-2316-hor-wide.jpg?output-quality=70&interpolation=progressive-bilinear&downsize=2880px:*",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Hotel Paris Prague",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2800,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/42619640.jpg?k=670a7a33b57faf4a767d33f474f1e6fc2d281a1d04c585f91a3fcd9039855041&o=&hp=1",
+                    "img2": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/6d/ac/b2/caption.jpg?w=1200&h=-1&s=1",
+                    "img3": "https://www.pragueunlocked.eu/wp-content/uploads/2021/06/tower-suite-bed-view-scaled.jpg",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/482832053.jpg?k=28666c96bafc520af3f891b4ce81dadf35c7984905b52dc85903180402f0ef60&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 4,
+                    "name": "Hilton Prague Old Town",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2700,
+                    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/54/b0/76/hilton-prague-old-town.jpg?w=700&h=-1&s=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484070947.jpg?k=efb104adc8e205fb68d715d45d788e98256175f3ea9e4307dfc48b638a902070&o=&hp=1",
+                    "img3": "https://www.hilton.com/im/en/PRGOTHI/6854308/9.jpg?impolicy=crop&cw=6720&ch=3762&gravity=NorthWest&xposition=0&yposition=358&rw=768&rh=430",
+                    "img4": "https://hilton-prague-old-town.prague-hotels.org/data/Photos/OriginalPhoto/12750/1275011/1275011359/photo-hilton-old-town-hotel-prague-70.JPEG",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Alcron Hotel Prague",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 2600,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/219657927.jpg?k=7c9bc921abd0d45865a8ba6e3d54b25ea50764fb7f1e03079e6db4bdf984d0f9&o=&hp=1",
+                    "img2": "https://superportaldev.blob.core.windows.net/cdn/dd4a080c-b739-456a-809a-962bb6ee6e89.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/431127386.jpg?k=a6a25f5cc1560223b17f156c7f262606a5e5794d831adb111ac4ed5c76f912da&o=&hp=1",
+                    "img4": "https://superportaldev.blob.core.windows.net/cdn/fa8f4488-7362-42ad-8491-af6b809ae769.jpg",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 6,
+                    "name": "Almanac Hotel Prague",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 2600,
+                    "img": "https://media.cntraveler.com/photos/5a7b2fce0bb24c1f0b5dc194/16:9/w_2560%2Cc_limit/Almanac__2018_FACADE-8.jpg",
+                    "img2": "https://images.trvl-media.com/hotels/1000000/120000/119600/119588/a0fe61ca_z.jpg",
+                    "img3": "https://restlessfeet.com/wp-content/uploads/2023/10/Almanac-X-Alcron-Prague-_-Hotel-bedroom-interior-2.jpg",
+                    "img4": "https://images.trvl-media.com/lodging/1000000/120000/119600/119588/652878fb.jpg?impolicy=resizecrop&rw=575&rh=575&ra=fill",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "11",
+            "city": "Amsterdam",
+            "country": "Netherlands",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Okura Amsterdam",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 3300,
+                    "img": "https://www.hungryformore-mag.com/wp-content/uploads/2019/07/Hotel_Okura_Ciel_Bleu_00181-1080x720.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155735718.jpg?k=2a804a6cb76ba8cce83bb1fe409cf040ca544c86c8e71f6a3feff9ec9f2de9b6&o=&hp=1",
+                    "img3": "https://www.myboutiquehotel.com/photos/112040/hotel-okura-amsterdam-the-leading-hotels-of-the-world-amsterdam-035-29153-1110x700.jpg",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/155765940.jpg?k=dc9a7a2d8a6b80f4f35d96fd90c73c5a2559263b1dce767c864f508bb905960b&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "The Dylan Amsterdam",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 3400,
+                    "img": "https://images.squarespace-cdn.com/content/v1/6003af59c8cd610112a4eff3/6cb1c983-0db1-4290-a669-e8f427619d07/Dylan+Amsterdam.jpeg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/235376735.jpg?k=6a88854cb0234a766f5de50865ff7f1b2b624dcab894b541c7218cd8771793bd&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/269086043.jpg?k=e717629fdbe62df5bc629a98003d88f51e3a22b77e45e821b488567620f88024&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/290904005.jpg?k=8496e3296a330a41afe11450086e197738723db8f05a071847c7fefe52d2a536&o=&hp=1",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Pulitzer Amsterdam",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2900,
+                    "img": "https://www.pulitzeramsterdam.com/media/v15odyat/exterior-6.jpg?anchor=center&mode=crop&quality=90&width=2000&height=1010&rnd=133535033855700000",
+                    "img2": "https://www.waterleau.eu/wp-content/uploads/2015/02/10427278_734201369998190_4350812880631677680_n.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/413548964.jpg?k=47340e37698f43062592a2536265e324395f6f4ec41ec3906881a6b679f780e9&o=&hp=1",
+                    "img4": "https://www.pulitzeramsterdam.com/media/uuyhjbrw/pulitzer-garden-19.jpg?center=0.49420825936049451,0.63353771259941793&mode=crop&quality=90&width=1260&height=840&rnd=133422151391770000",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "NH Grand Krasnapolsky",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 3100,
+                    "img": "https://www.tracesofwar.com/upload/2666200612154557.jpg",
+                    "img2": "https://www.luxurytravelmagazine.com/files/610/8/2798/NH_Collection_Amsterdam_Grand_Hotel_Krasnapolsky_9_big_bu.jpg",
+                    "img3": "https://cdn.audleytravel.com/1050/750/79/15990064-xl-room-with-a-view.webp",
+                    "img4": "https://assets.anantara.com/image/upload/q_auto,f_auto,c_limit,w_1045/media/minor/anantara/images/grand-hotel-krasnapolsky-amsterdam/meetings/anantara_grand_hotel_krasnapolsky_amsterdam_meetings_944x510_re2.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Astoria Amsterdam",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 4200,
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Astoria_Amsterdam_3.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484084751.jpg?k=aa6e2074cff32e2695ebae93921d5fbe004c0a64357695a4efbf9618be455d4e&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484084830.jpg?k=182a8e09cdd5b25d8ff8f418675d7024ceae5628766f0ccf4d66eb41cec5b0e4&o=&hp=1",
+                    "img4": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/484084781.jpg?k=b1f1cb011ce054b567c0d3fc52840405ab7fbcd3422e9bce3ec59f23f106fc61&o=&hp=1",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 6,
+                    "name": "Andaz Prinsent",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 3500,
+                    "img": "https://insideflyer.co.uk/wp-content/uploads/2016/01/Andaz-Amsterdam-exterior-765x420.jpg",
+                    "img2": "https://www.caandesign.com/wp-content/uploads/2015/05/andaz-amsterdam-02.jpg",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/593367360.jpg?k=f18f4c11f839e999d01211477e03d5fedb103d513fe6298df34b59e16c0c1269&o=&hp=1",
+                    "img4": "https://www.kayak.co.uk/rimg/himg/26/25/93/ice-87537532-79735885_3XL-558727.jpg?width=1366&height=768&crop=true",
+                    "meal": "UAI",
+                    "stars": 4
+                }
+            ]
+        },
+        {
+            "id": "12",
+            "city": "Vilnius",
+            "country": "Lithuania",
+            "hotels": [
+                {
+                    "id": 1,
+                    "name": "Kempinski Hotel Square",
+                    "date": "2024-10-01 / 2024-10-08",
+                    "price": 2400,
+                    "img": "https://www.ticati.com/img/hotel/15935304s.jpg",
+                    "img2": "https://itinari-images.s3.eu-west-1.amazonaws.com/activity/images/original/ac04971b-64c3-427e-b17f-f5ec606bc00e-29425829_2091798977513792_4128389665189265408_n.jpg",
+                    "img3": "https://lh4.googleusercontent.com/proxy/RbAwe4hgSfKmsmyN7HeiA9-UB8MhhaSJXofVpPmhgKZFVR93GDh-pxAfQjlZh-sxCS0JwCFpa7IbDzNw-PHNJG7V_q_kZRG7kn-xTf5Td2J8DM4IM982HQK4-vF6dP-Zr-eYldNHVMB0_lxtAuQLy34ggEvouNqqSR0hZEY4eFlIudcKR-G3s_PDnUbPMlJaFge90ur14YUNHcsLL7kbZa29Ndr3eydtUh5riApJB5ZR",
+                    "img4": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/7f/18/ed/red-passion-grand-kempinski.jpg?w=1200&h=-1&s=1",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 2,
+                    "name": "Grand Hotel Kempinski",
+                    "date": "2024-11-15 / 2024-11-22",
+                    "price": 2300,
+                    "img": "https://files.better-hotel.com/worker01/1187_hotel-entrance-summer-evening_864.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/543687097.jpg?k=1d43a3b8d589bd0a9440a7a2732969f97671ea201f2faa65fca8839e9885d253&o=&hp=1",
+                    "img3": "https://images.trvl-media.com/lodging/3000000/2140000/2135100/2135059/7933d63a.jpg?impolicy=fcrop&w=1200&h=800&p=1&q=medium",
+                    "img4": "https://phgcdn.com/images/uploads/TATGH/overviewimages/1600x813_Image_of_Zion_Spa_Indoor_Pool_Grand_Hotel_Kempinski_High_Tatras_trbske_Pleso_Slovakia.jpg",
+                    "meal": "UAI",
+                    "stars": 5
+                },
+                {
+                    "id": 3,
+                    "name": "Radisson Blu Royal Hotel",
+                    "date": "2024-09-10 / 2024-09-17",
+                    "price": 2000,
+                    "img": "https://media.radissonhotels.net/image/radisson-collection-astorija-hotel-vilnius/exterior/16256-116606-f76923258_4k.jpg?impolicy=HomeHero",
+                    "img2": "https://media.radissonhotels.net/image/radisson-collection-astorija-hotel-vilnius/lobby/16256-116606-f66998646_4k.jpg?impolicy=HomeHero",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/497072988.jpg?k=29fe902482809b261de8399d9e70768df9a7ddd02a88589a4bb244765d3dd75c&o=&hp=1",
+                    "img4": "https://media.radissonhotels.net/image/radisson-collection-astorija-hotel-vilnius/restaurant/16256-116606-f73271068_3xl.jpg?impolicy=Card&width=2880&height=1920",
+                    "meal": "UAL",
+                    "stars": 5
+                },
+                {
+                    "id": 4,
+                    "name": "Artagonist Art Hotel",
+                    "date": "2024-08-20 / 2024-08-27",
+                    "price": 2200,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/348188107.jpg?k=ce283135219247df553326f0a50304a8763b6c37ff29b3f9435b26ef97678fc3&o=&hp=1",
+                    "img2": "https://foto.hrsstatic.com/fotos/0/2/1280/1280/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F8%2F6%2F4%2F2%2F864242%2F864242_i_15811603.jpg/62750BLiszcVOPMX0PK7DQ%3D%3D/600%2C400/6/Artagonist_Art_Hotel-Vilnius-Innenansicht-864242.jpg",
+                    "img3": "https://www.govilnius.lt/images/5e14e21e62538100ac80f93c?w=750&h=500",
+                    "img4": "https://www.viccarbe.com/wp-content/uploads/2017/07/Artagonist-Originalus-Dydis-4.jpg",
+                    "meal": "UAI",
+                    "stars": 4
+                },
+                {
+                    "id": 5,
+                    "name": "Narutis Hotel",
+                    "date": "2024-12-01 / 2024-12-08",
+                    "price": 2100,
+                    "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/367367415.jpg?k=2a305d64c340e8efe874835ff73ef20dd49b6e38dd9efb01ad77a97c8f8f20a5&o=&hp=1",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/36388420.jpg?k=c2e8bcc9304a7438226a9b1800b881c691c11b42b63384ad875dbbe56d22d849&o=&hp=1",
+                    "img3": "https://d25wybtmjgh8lz.cloudfront.net/sites/default/files/styles/ph_masthead_1900x750/public/property/img-mastheads/vnohn-jr-suite-daa756c552a9a.jpg?h=6f1daa05",
+                    "img4": "https://www.atrapalo.com/hoteles/picture/l/173/7/5/394795749.jpg",
+                    "meal": "UAL",
+                    "stars": 4
+                },
+                {
+                    "id": 6,
+                    "name": "Hotel Pacai",
+                    "date": "2024-07-15 / 2024-07-22",
+                    "price": 2600,
+                    "img": "https://www.hotelpacai.com/storage/app/media/homepage/facad-hotel-pacai-vilnius.jpg",
+                    "img2": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/228686119.jpg?k=13062cb634d75eda382f2019e02a00f0f9672617e69f26cf363617d2dc3faa66&o=&hp=1",
+                    "img3": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/143159303.jpg?k=f7b1c1c3111e69e2aeb599fb783d2646793c2639c02331397492f9edf87049e3&o=&hp=1",
+                    "img4": "https://goingplacesnearandfar.wordpress.com/wp-content/uploads/2019/08/hotel-pacai-vilnius.png",
+                    "meal": "UAI",
+                    "stars": 5
+                }
+            ]
+        }
+    ]
+}
